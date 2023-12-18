@@ -138,7 +138,8 @@ class AudioTranscriber:
         print(f"Transcript written to {output_file}")
         print(f"Processed data moved {audio_file} to {processed_dir}")
 
+            # Clearing the GPU cache after processing each file
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
 
-# Example usage
-# transcriber = AudioTranscriber()
-# transcriber.transcribe("path/to/audio_file.wav", "output_file_name.txt")
+
