@@ -160,5 +160,5 @@ cython_debug/
 #.idea/
 
 audio_files/
-; results/
-; constants.py
+results/
+constants.py

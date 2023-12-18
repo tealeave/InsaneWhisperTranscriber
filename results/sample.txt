@@ -28,4 +28,4 @@ SPEAKER_00 [1:16.00-1:20.00]:  Right now, no. But I used to.
 SPEAKER_01 [1:20.00-1:23.00]:  Does your family usually have dinner together?
 SPEAKER_00 [1:23.00-1:25.00]:  Yes, we do.
 SPEAKER_00 [1:25.00-1:28.00]:  My mom always prepares delicious meals for us.
-Total processing time: 48.37 seconds
+Total processing time: 49.62 seconds
