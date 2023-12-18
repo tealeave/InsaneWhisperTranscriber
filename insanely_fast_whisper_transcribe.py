@@ -1,6 +1,4 @@
 """
-
-
 This script is designed for the automated transcription of audio files using the AudioTranscriber class,
 which utilizes OpenAI's Whisper model. The script processes all audio files located in a specified directory,
 transcribes them, and saves the results in another directory.
