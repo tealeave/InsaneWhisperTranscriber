@@ -1,0 +1,31 @@
+SPEAKER_00 [0:00.00-0:05.00]:  Music
+SPEAKER_00 [0:05.00-0:12.00]:  Music
+SPEAKER_01 [0:12.00-0:14.00]:  How many people are there in your family?
+SPEAKER_00 [0:14.00-0:22.00]:  There are five people in my family. My father, mother, brother, sister, and me.
+SPEAKER_01 [0:22.00-0:26.24]:  Does your family live in a house or an apartment?
+SPEAKER_00 [0:26.24-0:29.48]:  We live in a house in the countryside.
+SPEAKER_01 [0:29.48-0:31.84]:  What does your father do?
+SPEAKER_00 [0:31.84-0:33.80]:  My father is a doctor.
+SPEAKER_01 [0:33.80-0:36.40]:  He works at the local hospital.
+SPEAKER_00 [0:36.40-0:38.44]:  How old is your mother?
+SPEAKER_01 [0:38.44-0:42.88]:  She is 40 years old, one year younger than my father.
+SPEAKER_00 [0:42.88-0:44.84]:  Do you have any siblings?
+SPEAKER_01 [0:44.84-0:46.00]:  What's his or her name?
+SPEAKER_01 [0:46.00-0:48.00]:  Yes, I do.
+SPEAKER_00 [0:48.00-0:50.00]:  I have one elder brother,
+SPEAKER_00 [0:50.00-0:52.00]:  David, and one younger sister,
+SPEAKER_00 [0:52.00-0:54.00]:  Mary.
+SPEAKER_01 [0:54.00-0:56.00]:  Are you the oldest among your brothers and sisters?
+SPEAKER_00 [0:56.00-0:58.00]:  No, I'm not.
+SPEAKER_00 [0:58.00-1:00.00]:  I'm the second child in my family.
+SPEAKER_01 [1:00.00-1:02.00]:  What is your mother or father like?
+SPEAKER_01 [1:02.00-1:04.00]:  My father likes playing
+SPEAKER_00 [1:04.00-1:07.00]:  football, and my mother likes cooking.
+SPEAKER_01 [1:07.00-1:10.00]:  Do your parents let you stay out late?
+SPEAKER_00 [1:10.00-1:14.00]:  Of course not. They always ask me to get home before 10 p.m. each night.
+SPEAKER_01 [1:14.00-1:16.00]:  Do you stay with your parents?
+SPEAKER_00 [1:16.00-1:20.00]:  Right now, no. But I used to.
+SPEAKER_01 [1:20.00-1:23.00]:  Does your family usually have dinner together?
+SPEAKER_00 [1:23.00-1:25.00]:  Yes, we do.
+SPEAKER_00 [1:25.00-1:28.00]:  My mom always prepares delicious meals for us.
+Total processing time: 48.37 seconds
