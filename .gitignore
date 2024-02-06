@@ -163,3 +163,4 @@ audio_files/
 results/
 constants.py
 whisper_transcribe.py
+.gitignore
